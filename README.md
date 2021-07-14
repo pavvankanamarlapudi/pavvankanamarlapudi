@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pavvankanamarlapudi
+- 👋 Hi, I’m Pavan Kumar Kanamarlapudi 
 - 👀 I’m Google Cloud Professional Data Engineer & Certified RPA Developer
 - 🌱 I’m currently into Data Science Industry with **4+** Years of Experience
 - 💞️ I’m looking to collaborate on AI Community to explore more into Automation space
